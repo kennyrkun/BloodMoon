@@ -1,7 +1,8 @@
-name: "${project.name}"
-version: "${project.version}-Samistine"
+name: BloodMoon
+version: kennyrkun-1.0
+apiversion: 1.13
 main: "uk.co.jacekk.bukkit.bloodmoon.BloodMoon"
-load: startup
+load: STARTUP
 
 permissions:
   bloodmoon.admin.*:
